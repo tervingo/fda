@@ -3,7 +3,7 @@ title = 'Proyecto comunitario'
 draft = false
 +++
 
-{{< figure src="/images/logo.jpg" width="500px" height="650px">}}
+{{< figure src="/images/logo.jpg" width="500px" height="570px">}}
 
 <div class="text-box-center">
 
