@@ -5,7 +5,7 @@ draft = false
 
 <br/>
 
-{{< figure src="images/flor.jpg" width="310px" height="450px" >}}
+{{< figure src="/images/flor_2.jpg" width="350px" height="450px" >}}
 
 <br/><br/>
 
