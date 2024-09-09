@@ -48,13 +48,23 @@ Dos pioneros de la misma época, separados a 7.234 Km y por el Océano Atlántic
   </div>
 </div> 
 
-<h4>La Osteopatia y la Neurociencia se integran</h4>
+<h3>La Osteopatia y la Neurociencia se integran...</h3>
 
-<h4>En la naturaleza</h4>
+<h4>...en la naturaleza</h4>
 
 Así como A. T. Still estableció los principios osteopáticos basados en la Naturaleza, Santiago Ramón y Cajal también acudía a ella, diciendo: «Como el entomólogo a la caza de mariposas de vistosos matices, mi atención perseguía en el vergel de la sustancia gris, células de formas delicadas y elegantes, las misteriosas mariposas del alma, cuyo batir de alas quién sabe si esclarecería algún día el secreto de la vida mental», mariposas que posteriormente fueron las neuronas más relevantes del cerebro, las células piramidales.
 
-<h4>En la autocuraión del organismo</h4>
+<h4>...en la autocuración del organismo</h4>
 
 Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocuración del cuerpo era fundamental, hecho
 también sostenido por Santiago Ramón y Cajal a partir de su aporte del fenómeno de «Plasticidad Neuronal» que explicaría la propiedad dinámica y adaptativa de recuperación del tejido cerebral ante daño o perturbación del tejido.
+
+<h3>Integración en la consulta y tratamiento</h3>
+
+En consecuencia, ambos pioneros me enseñan cada día que el enfoque terapéutico es totalmente integrativo:
+<b><i>La comprensión y el abordaje de los procesos físicos, mentales, cognitivos y emocionales que subyacen a nuestro cerebro
+explican, en gran parte, los fenómenos disfuncionales o patológicos que perturban la salud física y que se manifiestan en
+nuestro organismo para ser percibidos y transducidos por nosotros mismos.</i></b>
+Cuanto mayor alcance exista en el conocimiento del funcionamiento del ser humano desde todos los sistemas que lo
+constituyen -física, mental, energética y emocional - así como la interrelación que existe entre ellos, mayores son las
+posibilidades de mantener nuestra propia salud y equilibrio, y así poder acompañar el sistema de salud de los demás.

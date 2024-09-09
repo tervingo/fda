@@ -30,3 +30,13 @@ Universidad de Buenos Aires (UBA)
 <h3>MAESTRÍA Y PROFESORADO DE EDUCACIÓN FÍSICA</h3>
 Instituto Superior de Educación Física Dr. Enrique Romero Brest
 Especialización en Educación Física Especial
+
+<br/><br/>
+
+<div style="display: flex; align-items: center; width: 100%; margin-left:50px">
+<!-- <div style="text-align: center;"> -->
+    <a href="https://www.linkedin.com/in/mar%C3%ADa-florencia-vidal-a661b717b/" target="_blank" rel="noopener noreferrer">
+        {{< figure src="images/linkedin-svgrepo-com.svg" width="50" height="50">}}
+    </a>
+</div>
+<h4>María Florencia Vidal</h4>
