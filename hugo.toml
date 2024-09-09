@@ -1,0 +1,66 @@
+baseURL = 'https://flordeanatomia.com'
+languageCode = 'es-es'
+title = 'María Florencia Vidal'
+theme = 'etch'
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  dark = "off"
+  copyright = "Copyright © 2024 María Florencia Vidal"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    title = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "trayectoria profesional"
+    name = "Trayectoria"
+    title = "Trayectoria profesional"
+    url = "/trayectoria/"
+    weight = 10
+    pre = " | "
+
+  [[menu.main]]
+    identifier = "proposito y enfoque"
+    name = "Propósito"
+    title = "Propósito y enfoque"
+    url = "/proposito/"
+    weight = 20
+    pre = " | "
+
+  [[menu.main]]
+    identifier = "proyecto comunitario"
+    name = "Proyecto"
+    title = "Proyecto comunitario"
+    url = "/proyecto/"
+    weight = 30
+    pre = " | "
+
+  [[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    title = "Contacto"
+    url = "/contacto/"
+    weight = 40
+    pre = " | "
+
+ [[menu.main]]
+    identifier = "Ubicación"
+    name = "Ubicación"
+    title = "Ubicación"
+    url = "/ubicacion/"
+    weight = 50
+    pre = " | "
+
