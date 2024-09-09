@@ -26,7 +26,7 @@ Dos pioneros de la misma época, separados a 7.234 Km y por el Océano Atlántic
     </div>
     <div class="author">Andrew Taylor Still</div>
     <br/>
-    Andrew Taylor Still (1828 – 1917), médico estadounidense <a href="#" onclick="openPopup('Andrew Taylor Still (1828 – 1917), médico estadounidense considerado el padre de la Osteopatía, fue quien sentó los principios de las leyes osteopáticas basadas en la Naturaleza y aplicadas al ser humano y que gobiernan los mecanismos que reconducen al propio organismo en dirección al restablecimiento del equilibrio y su salud.'); return false;">"(leer más)..."</a>
+    <a href="#" onclick="openPopup('Andrew Taylor Still (1828 – 1917), médico estadounidense considerado el padre de la Osteopatía, fue quien sentó los principios de las leyes osteopáticas basadas en la Naturaleza y aplicadas al ser humano y que gobiernan los mecanismos que reconducen al propio organismo en dirección al restablecimiento del equilibrio y su salud.'); return false;">Leer más</a>
     
    </div>
 </div>
@@ -43,21 +43,22 @@ Dos pioneros de la misma época, separados a 7.234 Km y por el Océano Atlántic
         “Mientras nuestro cerebro sea un misterio, el Universo, reflejo de la estructura del cerebro, también lo será”
     </div>
     <div class="author">Santiago Ramón y Cajal</div>
-    <br/>
-    Santiago Ramón y Cajal (1852 – 1934), fue un médico y científico español <a href="#" onclick="openPopup('Santiago Ramón y Cajal (1852 – 1934) fue un médico y científico español considerado el padre de la neurociencia y apasionado por el estudio de la histología y anatomía de la estructura del sistema nervioso. Pionero en la descripción de la célula nerviosa o neurona, con uno de sus aportes fundamentales denominado «Doctrina Neuronal» basada en que el cerebro está compuesto por neuronas individuales y a la vez sumamente interconectadas entre sí, creando innumerables circuitos neuronales y que en la actualidad siguen siendo una fuente inagotable de conocimiento de la Neurociencia Moderna.'); return false;">"(leer más)..."</a>
+    <a href="#" onclick="openPopup('Santiago Ramón y Cajal (1852 – 1934) fue un médico y científico español considerado el padre de la neurociencia y apasionado por el estudio de la histología y anatomía de la estructura del sistema nervioso. Pionero en la descripción de la célula nerviosa o neurona, con uno de sus aportes fundamentales denominado «Doctrina Neuronal» basada en que el cerebro está compuesto por neuronas individuales y a la vez sumamente interconectadas entre sí, creando innumerables circuitos neuronales y que en la actualidad siguen siendo una fuente inagotable de conocimiento de la Neurociencia Moderna.'); return false;">Leer más</a>
   </div>
 </div> 
 
-<h3>La Osteopatia y la Neurociencia se integran...</h3>
+<h3>La Osteopatia y la Neurociencia se integran</h3>
 
-<h4>...en la naturaleza</h4>
+<h4>en la naturaleza</h4>
 
-Así como A. T. Still estableció los principios osteopáticos basados en la Naturaleza, Santiago Ramón y Cajal también acudía a ella, diciendo: «Como el entomólogo a la caza de mariposas de vistosos matices, mi atención perseguía en el vergel de la sustancia gris, células de formas delicadas y elegantes, las misteriosas mariposas del alma, cuyo batir de alas quién sabe si esclarecería algún día el secreto de la vida mental», mariposas que posteriormente fueron las neuronas más relevantes del cerebro, las células piramidales.
+   <a href="#" onclick="openPopup('Así como A. T. Still estableció los principios osteopáticos basados en la Naturaleza, Santiago Ramón y Cajal también acudía a ella, diciendo: «Como el entomólogo a la caza de mariposas de vistosos matices, mi atención perseguía en el vergel de la sustancia gris, células de formas delicadas y elegantes, las misteriosas mariposas del alma, cuyo batir de alas quién sabe si esclarecería algún día el secreto de la vida mental», mariposas que posteriormente fueron las neuronas más relevantes del cerebro, las células piramidales.'); return false;">Leer más</a>
 
-<h4>...en la autocuración del organismo</h4>
 
-Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocuración del cuerpo era fundamental, hecho
-también sostenido por Santiago Ramón y Cajal a partir de su aporte del fenómeno de «Plasticidad Neuronal» que explicaría la propiedad dinámica y adaptativa de recuperación del tejido cerebral ante daño o perturbación del tejido.
+<h4>y en la autocuración del organismo</h4>
+
+   <a href="#" onclick="openPopup('Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocuración del cuerpo era fundamental, hecho también sostenido por Santiago Ramón y Cajal a partir de su aporte del fenómeno de «Plasticidad Neuronal» que explicaría la propiedad dinámica y adaptativa de recuperación del tejido cerebral ante daño o perturbación del tejido'); return false;">Leer más</a>
+
+
 
 <h3>Integración en la consulta y tratamiento</h3>
 

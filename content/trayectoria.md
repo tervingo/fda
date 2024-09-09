@@ -6,7 +6,6 @@ draft = false
 
 <div class="text-box-center">
     <p>Colegiada 17176 por el Colegio de Fisioterapeutas de Catalunya</p>
-    <p>Miembro del Registro de Osteópatas de España ROE</p>
 </div>
 
 <br/>
@@ -32,11 +31,34 @@ Instituto Superior de Educación Física Dr. Enrique Romero Brest
 Especialización en Educación Física Especial
 
 <br/><br/>
-
-<div style="display: flex; align-items: center; width: 100%; margin-left:50px">
-<!-- <div style="text-align: center;"> -->
-    <a href="https://www.linkedin.com/in/mar%C3%ADa-florencia-vidal-a661b717b/" target="_blank" rel="noopener noreferrer">
-        {{< figure src="images/linkedin-svgrepo-com.svg" width="50" height="50">}}
-    </a>
+<div class="author-info">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-florencia-vidal-a661b717b/" target="_blank" rel="noopener noreferrer" class="linkedin-link">
+    {{< figure src="images/linkedin-svgrepo-com.svg" width="50" height="50" alt="LinkedIn Profile" class="linkedin-logo" >}}
+  </a>
+  <h4 class="author-name">María Florencia Vidal</h4>
 </div>
-<h4>María Florencia Vidal</h4>
+
+<style>
+  .author-info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust as needed */
+  }
+
+  .author-name {
+    margin: 0 10px 0 0;
+    font-size: 1.1em; /* Adjust as needed */
+    margin-left: 10px;
+  }
+
+  .linkedin-link {
+    display: flex;
+    align-items: center;
+  }
+
+  .linkedin-logo {
+    width: 50px;
+    height: 50px;
+  }
+</style>

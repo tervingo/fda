@@ -1,5 +1,5 @@
 +++
-title = 'Ubicacion'
+title = 'Ubicación'
 draft = false
 +++
 

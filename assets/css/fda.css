@@ -4,22 +4,20 @@
   }
 
 .text-box {
-    border: 1px solid #ccc;
     padding: 15px;
     margin: 15px 0;
     font-size: 20px;
     font-weight:500;
-    background-color: #f8f8f8;
+    background-color: silver;
     border-radius: 5px;
   }
 
 .text-box-center {
-    border: 1px solid #ccc;
     padding: 15px;
     margin: 15px 0;
     font-size: 18px;
     font-weight:500;
-    background-color: #f8f8f8;
+    background-color: silver;
     border-radius: 5px;
     text-align: center;
   }
@@ -35,4 +33,16 @@
 .page-title {
   font-size: 36px !important;
   font-weight: 500;
+}
+
+body {
+  background-color: silver;
+}
+
+footer#footer {
+  font-size: 14px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: gray;
+  margin: 40px 0;
 }
