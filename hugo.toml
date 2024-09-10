@@ -30,7 +30,7 @@ pygmentsUseClasses = true
     title = "Trayectoria profesional"
     url = "/trayectoria/"
     weight = 10
-    pre = " | "
+    pre = "  "
 
   [[menu.main]]
     identifier = "proposito y enfoque"
@@ -38,7 +38,7 @@ pygmentsUseClasses = true
     title = "Propósito y enfoque"
     url = "/proposito/"
     weight = 20
-    pre = " | "
+    pre = "  "
 
   [[menu.main]]
     identifier = "proyecto comunitario"
@@ -46,7 +46,7 @@ pygmentsUseClasses = true
     title = "Proyecto comunitario"
     url = "/proyecto/"
     weight = 30
-    pre = " | "
+    pre = "  "
 
   [[menu.main]]
     identifier = "contacto"
@@ -54,7 +54,7 @@ pygmentsUseClasses = true
     title = "Contacto"
     url = "/contacto/"
     weight = 40
-    pre = " | "
+    pre = "  "
 
  [[menu.main]]
     identifier = "Ubicación"
@@ -62,5 +62,5 @@ pygmentsUseClasses = true
     title = "Ubicación"
     url = "/ubicacion/"
     weight = 50
-    pre = " | "
+    pre = "  "
 

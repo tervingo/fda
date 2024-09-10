@@ -14,7 +14,10 @@ equilibrio y salud.
 
 <h4>OSTEOPATÍA Y NEUROCIENCIA INTEGRATIVA</h4>
 <br/>
-Dos pioneros de la misma época, separados a 7.234 Km y por el Océano Atlántico, con la misma visión.
+La palabra «Zeitgeist» es una expresión del idioma alemán que significa “el espíritu del tiempo” y se refiere a
+un conjunto general de ideas, creencias o sensaciones que son comunes en un periodo particular de la historia.
+He aquí dos pioneros de la misma época, separados por un océano y a la vez reunidos por la misma visión o
+«Zeitgeist» sobre el cuerpo humano.
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; margin-right: 20px;">
@@ -49,23 +52,17 @@ Dos pioneros de la misma época, separados a 7.234 Km y por el Océano Atlántic
 
 <h3>La Osteopatia y la Neurociencia se integran</h3>
 
-<h4>en la naturaleza</h4>
+<h4>En la naturaleza</h4>
 
    <a href="#" onclick="openPopup('Así como A. T. Still estableció los principios osteopáticos basados en la Naturaleza, Santiago Ramón y Cajal también acudía a ella, diciendo: «Como el entomólogo a la caza de mariposas de vistosos matices, mi atención perseguía en el vergel de la sustancia gris, células de formas delicadas y elegantes, las misteriosas mariposas del alma, cuyo batir de alas quién sabe si esclarecería algún día el secreto de la vida mental», mariposas que posteriormente fueron las neuronas más relevantes del cerebro, las células piramidales.'); return false;">Leer más</a>
 
 
-<h4>y en la autocuración del organismo</h4>
+<h4>En la autocuración del organismo</h4>
 
    <a href="#" onclick="openPopup('Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocuración del cuerpo era fundamental, hecho también sostenido por Santiago Ramón y Cajal a partir de su aporte del fenómeno de «Plasticidad Neuronal» que explicaría la propiedad dinámica y adaptativa de recuperación del tejido cerebral ante daño o perturbación del tejido'); return false;">Leer más</a>
 
 
 
-<h3>Integración en la consulta y tratamiento</h3>
+<h4>Integración en la consulta y tratamiento</h4>
 
-En consecuencia, ambos pioneros me enseñan cada día que el enfoque terapéutico es totalmente integrativo:
-<b><i>La comprensión y el abordaje de los procesos físicos, mentales, cognitivos y emocionales que subyacen a nuestro cerebro
-explican, en gran parte, los fenómenos disfuncionales o patológicos que perturban la salud física y que se manifiestan en
-nuestro organismo para ser percibidos y transducidos por nosotros mismos.</i></b>
-Cuanto mayor alcance exista en el conocimiento del funcionamiento del ser humano desde todos los sistemas que lo
-constituyen -física, mental, energética y emocional - así como la interrelación que existe entre ellos, mayores son las
-posibilidades de mantener nuestra propia salud y equilibrio, y así poder acompañar el sistema de salud de los demás.
+   <a href="#" onclick="openPopup('La comprensión y el abordaje de los procesos físicos, mentales, cognitivos y emocionales que subyacen a nuestro cerebro explican, en gran parte, los fenómenos disfuncionales o patológicos que perturban la salud física y que se manifiestan en nuestro organismo para ser percibidos y transducidos por nosotros mismos. Cuanto mayor alcance exista en el conocimiento del funcionamiento del ser humano desde todos los sistemas que lo constituyen, así como la interrelación que existe entre ellos, mayores son las probabilidades de mantener nuestra propia salud en equilibrio, y así poder acompañar el sistema de salud de los demás.'); return false;">Leer más</a>
