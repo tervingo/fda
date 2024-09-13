@@ -27,40 +27,40 @@ pygmentsUseClasses = true
   [[menu.main]]
     identifier = "trayectoria profesional"
     name = "Trayectoria"
-    title = "Trayectoria profesional"
-    url = "/trayectoria/"
+    title = "Trayectoria"
+    url = "#trayectoria"
     weight = 10
-    pre = "  "
+    pre = " | "
 
   [[menu.main]]
     identifier = "proposito y enfoque"
     name = "Propósito"
     title = "Propósito y enfoque"
-    url = "/proposito/"
+    url = "#proposito"
     weight = 20
-    pre = "  "
+    pre = " | "
 
   [[menu.main]]
     identifier = "proyecto comunitario"
     name = "Proyecto"
     title = "Proyecto comunitario"
-    url = "/proyecto/"
+    url = "#proyecto"
     weight = 30
-    pre = "  "
+    pre = " | "
 
   [[menu.main]]
     identifier = "contacto"
     name = "Contacto"
     title = "Contacto"
-    url = "/contacto/"
+    url = "#contacto"
     weight = 40
-    pre = "  "
+    pre = " | "
 
  [[menu.main]]
     identifier = "Ubicación"
     name = "Ubicación"
     title = "Ubicación"
-    url = "/ubicacion/"
+    url = "#ubicacion"
     weight = 50
-    pre = "  "
+    pre = " | "
 

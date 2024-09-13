@@ -1,9 +1,16 @@
+body {
+  background-color: silver;
+/*  width: 70%; */
+}
+
+
 .bordered-box {
     border: 1px solid black;
     padding: 20px;
   }
 
 .text-box {
+    max-width:50%;
     padding: 15px;
     margin: 15px 0;
     font-size: 20px;
@@ -12,11 +19,11 @@
     border-radius: 5px;
   }
 
-.text-box-center {
+  .text-box-center {
     padding: 15px;
-    margin: 15px 0;
+    margin: 10px 0;
     font-size: 18px;
-    font-weight:500;
+    font-weight: 500;
     background-color: silver;
     border-radius: 5px;
     text-align: center;
@@ -27,16 +34,37 @@
   }
 
 .author {
+    margin-top: 10px;
+    font-style: italic;
     text-align: right;
+  }
+
+.author-info {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 20px; /* Adjust as needed */
+}
+
+.author-name {
+  margin: 0 10px 0 0;
+  font-size: 1.1em; /* Adjust as needed */
+  margin-left: 10px;
+}
+
+.linkedin-link {
+  display: flex;
+  align-items: center;
+}
+
+.linkedin-logo {
+  width: 50px;
+  height: 50px;
 }
 
 .page-title {
   font-size: 36px !important;
   font-weight: 500;
-}
-
-body {
-  background-color: silver;
 }
 
 footer#footer {
@@ -45,4 +73,48 @@ footer#footer {
   font-weight: 700;
   color: gray;
   margin: 40px 0;
+}
+
+section {
+  padding-top: 60px; /* Adjust this value based on your header height */
+  margin-top: -60px;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px; /* Space between the two contact items */
+  margin: 20px 0; /* Vertical margin, adjust as needed */
+}
+
+.contact-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.icon-link {
+  display: block;
+  margin-bottom: 10px; /* Space between icon and text */
+}
+
+.contact-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.contact-text {
+  margin: 0;
+  font-size: 1em; /* Adjust as needed */
+}
+
+.seccion {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.leermas {
+  font-size: 18px;
 }

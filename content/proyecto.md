@@ -16,22 +16,22 @@ Flor de Anatomía tiene el objetivo de compartir libremente el conocimiento acad
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; margin-right: 20px;">
         <a href="https://www.facebook.com/FlorDeAnatomia" target="_blank" rel="noopener noreferrer">
-            {{< figure src="/images/facebook-color-svgrepo-com.svg" width="40px" height="40px">}}
+            {{< figure src="/images/facebook-color-svgrepo-com.svg" width="50px" height="50px">}}
         </a>
     </div>
     <div style="flex:1;">
-        <a href="www.instagram.com/flordeanatomia" target="_blank" rel="noopener noreferrer">
-            {{< figure src="/images/instagram-1-svgrepo-com.svg" width="40px" height="40px">}}
+        <a href="https://instagram.com/flordeanatomia" target="_blank" rel="noopener noreferrer">
+            {{< figure src="/images/instagram-1-svgrepo-com.svg" width="50px" height="50px">}}
         </a>
     </div>
     <div style="flex:1;">
         <a href="https://www.tiktok.com/@flor_de_anatomia" target="_blank" rel="noopener noreferrer">
-            {{< figure src="/images/tiktok-logo-logo-svgrepo-com.svg" width="40px" height="40px">}}
+            {{< figure src="/images/tiktok-logo-logo-svgrepo-com.svg" width="50px" height="50px">}}
         </a>
     </div>
     <div style="flex:1;">
         <a href="https://youtube.com/channel/UCttmFf0pB3eHjvZAS8m1eKA" target="_blank" rel="noopener noreferrer">
-            {{< figure src="/images/youtube-color-svgrepo-com.svg" width="40px" height="40px">}}
+            {{< figure src="/images/youtube-color-svgrepo-com.svg" width="50px" height="50px">}}
         </a>
     </div>
 

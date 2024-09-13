@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     {{ with .Site.Params.description -}}
     <meta name="description" content="{{ . }}">
     {{ end }}
@@ -9,6 +10,10 @@
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
+    {{ with .Params.customHead }}
+        {{ . | safeHTML }}
+    {{ end }}
+    
     {{ $resources := slice -}}
 
     {{ $resources = $resources | append (resources.Get "css/main.css") -}}
@@ -32,6 +37,7 @@
     <link rel="canonical" href="{{ .Permalink }}" />
     <title>{{ .Title }}</title>
 </head>
+<script> console.log(window.innerWidth + 'px x ' + window.innerHeight + 'px'); </script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D3EEJ9B3NT"></script>
 <script>
