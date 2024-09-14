@@ -1,9 +1,17 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="https://flordeanatomia.com/images/logo.jpg">
+    <meta property="og:url" content="https://flordeanatomia.com">
+
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     {{ with .Site.Params.description -}}
-    <meta name="description" content="{{ . }}">
+        <meta name="description" content="{{ . }}">
+        <meta property="og:description" content="{{ . }}" >
+    {{ end }}
+    {{ with .Site.Title -}}
+        <meta property="og:title" content="{{ . }}" >
     {{ end }}
     {{ printf `<link rel="shortcut icon" href="%s">` ("favicon.ico" | absURL) | safeHTML }}
     {{ with .OutputFormats.Get "rss" -}}

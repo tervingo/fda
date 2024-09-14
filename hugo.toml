@@ -1,6 +1,6 @@
 baseURL = 'https://flordeanatomia.com'
 languageCode = 'es-es'
-title = 'María Florencia Vidal'
+title = 'Flor de Anatomía - María Florencia Vidal'
 theme = 'etch'
 enableInlineShortcodes = true
 pygmentsCodeFences = true
@@ -9,6 +9,8 @@ pygmentsUseClasses = true
 [params]
   dark = "off"
   copyright = "Copyright © 2024 María Florencia Vidal"
+  description = "Trayectoria, propósito y datos de contacto de la Neurocientífica, Fisioterapeuta y Osteópata María Florencia Vidal y de su proyecto Flor de Anatomía." 
+
 
 [markup]
   [markup.goldmark]

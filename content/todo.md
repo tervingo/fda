@@ -5,7 +5,6 @@ draft = false
 
 
 
-<!-- <h1 style="text-align: center; margin-right: 23px;">María Florencia Vidal</h1> -->
 <br/>
 
 {{< figure src="/images/flor_2.jpg" width="360px" height="450px" >}}
@@ -84,7 +83,7 @@ He aquí dos pioneros de la misma época, separados por un océano y a la vez re
 
  {{< figure src="/images/TS.jpg" width="220px" height="300px">}}
 
-<div style="font-size: 18px; text-align:center;"><i>“La mente y el cuerpo están conectados y, por lo tanto, <br/>no se puede curar uno sin tener en cuenta al otro”</i></div>
+<div class="quotes"><i>“La mente y el cuerpo están conectados y, por lo tanto, <br/>no se puede curar uno sin tener en cuenta al otro”</i></div>
 <div class="author">Andrew Taylor Still</div>
 
 <a href="#" onclick="openPopup('Andrew Taylor Still (1828 – 1917), médico estadounidense considerado el padre de la Osteopatía, fue quien sentó los principios de las Leyes Osteopáticas basadas en la Naturaleza y aplicadas al ser humano y que gobiernan los mecanismos que reconducen al propio organismo en dirección al restablecimiento del equilibrio y su salud.'); return false;"><div class="leermas">Leer más</div></h4></a>
@@ -94,7 +93,7 @@ He aquí dos pioneros de la misma época, separados por un océano y a la vez re
 
 {{< figure src="/images/RyC.jpg"  width="230px" height="300px">}}
 
-<div style="font-size: 18px; text-align:center;"><i>“Mientras nuestro cerebro sea un misterio, el Universo, <br/>reflejo de la estructura del cerebro, también lo será”</i></div> 
+<div class="quotes"><i>“Mientras nuestro cerebro sea un misterio, el Universo, <br/>reflejo de la estructura del cerebro, también lo será”</i></div> 
 <div class="author">Santiago Ramón y Cajal</div>
 
 <a href="#" onclick="openPopup('Santiago Ramón y Cajal (1852 – 1934) fue un médico y científico español considerado el padre de la Neurociencia y apasionado por el estudio de la Histología y Anatomía de la estructura del sistema nervioso. Pionero en la descripción de la célula nerviosa o neurona, con uno de sus aportes fundamentales denominado «Doctrina Neuronal» basado en que el cerebro está compuesto por neuronas individuales y a la vez sumamente interconectadas entre sí, creando innumerables circuitos neuronales y que en la actualidad siguen siendo una fuente inagotable de conocimiento de la Neurociencia Moderna.'); return false;"><div class="leermas">Leer más</div></a>
