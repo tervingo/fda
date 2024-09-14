@@ -24,7 +24,7 @@ draft = false
 <div id="trayectoria"></div>
 
 
-<div class="seccion" style="text-align:center;">Trayectoria profesional</div>
+<div class="seccion">Trayectoria profesional</div>
 
   <div class="text-box-center">
       <p>Colegiada 17176 por el Colegio de Fisioterapeutas de Catalunya</p>
@@ -64,7 +64,7 @@ Instituto Superior de Educación Física Dr. Enrique Romero Brest. Especializaci
 <br/><br/>
 <div id="proposito"></div>
 
-<div class="seccion"  style="text-align:center;">Propósito y enfoque terapéutico</div>
+<div class="seccion">Propósito y enfoque terapéutico</div>
 <br/>
 <h2><i>Propósito</i></h2>
 <br/>
@@ -84,7 +84,7 @@ He aquí dos pioneros de la misma época, separados por un océano y a la vez re
 
  {{< figure src="/images/TS.jpg" width="220px" height="300px">}}
 
-<h4><i>“La mente y el cuerpo están conectados y, por lo tanto, no se puede curar uno sin tener en cuenta al otro”</i></h4>
+<div style="font-size: 18px; text-align:center;"><i>“La mente y el cuerpo están conectados y, por lo tanto, <br/>no se puede curar uno sin tener en cuenta al otro”</i></div>
 <div class="author">Andrew Taylor Still</div>
 
 <a href="#" onclick="openPopup('Andrew Taylor Still (1828 – 1917), médico estadounidense considerado el padre de la Osteopatía, fue quien sentó los principios de las Leyes Osteopáticas basadas en la Naturaleza y aplicadas al ser humano y que gobiernan los mecanismos que reconducen al propio organismo en dirección al restablecimiento del equilibrio y su salud.'); return false;"><div class="leermas">Leer más</div></h4></a>
@@ -94,7 +94,7 @@ He aquí dos pioneros de la misma época, separados por un océano y a la vez re
 
 {{< figure src="/images/RyC.jpg"  width="230px" height="300px">}}
 
-<h4><i>“Mientras nuestro cerebro sea un misterio, el Universo, reflejo de la estructura del cerebro, también lo será”</i></h4> 
+<div style="font-size: 18px; text-align:center;"><i>“Mientras nuestro cerebro sea un misterio, el Universo, <br/>reflejo de la estructura del cerebro, también lo será”</i></div> 
 <div class="author">Santiago Ramón y Cajal</div>
 
 <a href="#" onclick="openPopup('Santiago Ramón y Cajal (1852 – 1934) fue un médico y científico español considerado el padre de la Neurociencia y apasionado por el estudio de la Histología y Anatomía de la estructura del sistema nervioso. Pionero en la descripción de la célula nerviosa o neurona, con uno de sus aportes fundamentales denominado «Doctrina Neuronal» basado en que el cerebro está compuesto por neuronas individuales y a la vez sumamente interconectadas entre sí, creando innumerables circuitos neuronales y que en la actualidad siguen siendo una fuente inagotable de conocimiento de la Neurociencia Moderna.'); return false;"><div class="leermas">Leer más</div></a>
@@ -116,15 +116,23 @@ Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocur
 
 <h3 style="text-align:center;"><i>Integración en la Consulta y Tratamiento</i></h3>
 
-<p>La comprensión y el abordaje de los procesos físicos, mentales, cognitivos y emocionales que subyacen a nuestro cerebro explican, en gran parte, los fenómenos disfuncionales o patológicos que perturban la salud física y que se manifiestan en nuestro organismo para ser percibidos y transducidos por nosotros mismos. </p>
-<p>Cuanto mayor alcance exista en el conocimiento del funcionamiento del ser humano desde todos los sistemas que lo constituyen, así como la interrelación que existe entre ellos, mayores son las probabilidades de mantener nuestra propia salud en equilibrio, y así poder acompañar el sistema de salud de los demás.</p>
+<div style="margin-left: 30px;"> 
+{{< figure src="/images/menis.jpg"  width="300px" height="300px">}}
+</div>
+
+<div class="texto-centrado">
+
+  <p>La comprensión y el abordaje de los procesos físicos, mentales, cognitivos y emocionales que subyacen a nuestro cerebro explican, en gran parte, los fenómenos disfuncionales o patológicos que perturban la salud física y que se manifiestan en nuestro organismo para ser percibidos y transducidos por nosotros mismos. </p>
+  <p>Cuanto mayor alcance exista en el conocimiento del funcionamiento del ser humano desde todos los sistemas que lo constituyen, así como la interrelación que existe entre ellos, mayores son las probabilidades de mantener nuestra propia salud en equilibrio, y así poder acompañar el sistema de salud de los demás.</p>
+</div>
 
 <br/><br/>
 
 <div id="proyecto"></div>
 <br/>
 
-<div class="seccion" style="text-align:center;">Proyecto comunitario</div>
+<!-- <div class="seccion" style="text-align:center;">Proyecto comunitario</div> -->
+<div class="seccion">Proyecto comunitario</div>
 
 {{< figure src="/images/logo.jpg" width="400px" height="455px">}}
 
@@ -135,6 +143,7 @@ Dentro de los principios osteopáticos, para A. T. Still la propiedad de autocur
 Flor de Anatomía tiene el objetivo de compartir libremente el conocimiento académico y divulgación científica sobre el cuerpo humano de forma integrativa y dinámica, añadiendo conceptos de aplicabilidad clínica que puedan ser útiles en la autocomprensión de nuestra salud.
 
 ¡Te espero! Para que juntos descubramos una nueva forma de entender el cuerpo humano y su salud.
+
 
   </div>
 </div>
@@ -167,7 +176,7 @@ Flor de Anatomía tiene el objetivo de compartir libremente el conocimiento acad
 
 <div id="contacto"></div>
 
-<div class="seccion"  style="text-align:center;">Contacto</div>
+<div class="seccion">Contacto</div>
 
 <div class="contact-info">
   <div class="contact-item">
@@ -188,7 +197,7 @@ Flor de Anatomía tiene el objetivo de compartir libremente el conocimiento acad
 
 <div id="ubicacion"></div>
 
-<div class="seccion"  style="text-align:center;">Ubicación</div>
+<div class="seccion">Ubicación</div>
 
 
 <br/>
@@ -204,7 +213,7 @@ Carrer de Rabassa, 29, Gràcia, 08024 - Barcelona
 <br/>
 
 <h3 style="text-align: center;"> Transporte público </h3>
-<div class="text-box-center">
+<div class="transporte">
 <p>Metro: L3, L4</p>
 <p>FGC: R2S, S1, S2, L6, L7</p>
 <p>Bus: 24, 39, D40, H6, 116</p>

@@ -19,15 +19,30 @@ body {
     border-radius: 5px;
   }
 
-  .text-box-center {
+.text-box-center {
     padding: 15px;
-    margin: 10px 0;
+    margin: 0;
     font-size: 18px;
     font-weight: 500;
     background-color: silver;
     border-radius: 5px;
     text-align: center;
   }
+
+.transporte {
+    padding: 15px;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: silver;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+.texto-centrado {
+  text-align:justify;
+  margin-left: 20px;
+}
 
 .centered-text {
     text-align: center;
@@ -78,6 +93,7 @@ footer#footer {
 section {
   padding-top: 60px; /* Adjust this value based on your header height */
   margin-top: -60px;
+  text-align: center;
 }
 
 .contact-info {
