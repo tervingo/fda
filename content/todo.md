@@ -24,6 +24,8 @@ draft = false
 
 
 <div class="seccion">Trayectoria profesional</div>
+<br/>
+  {{< figure src="/images/CFC.jpg" width="90px" height="90px">}}
 
   <div class="text-box-center">
       <p>Colegiada 17176 por el Colegio de Fisioterapeutas de Catalunya</p>
