@@ -7,7 +7,7 @@ draft = false
 
 <br/>
 
-{{< figure src="/images/flor_nov24.jpg" width="340px" height="541px" >}}
+{{< figure src="/images/flor.jpg" width="340px" height="541px" >}}
 
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
